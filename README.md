@@ -99,7 +99,7 @@
 <a href="https://instagram.com/ankkiyy" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/ankkiyy" target="_blank">
+<a href="https://www.youtube.com/@Ankkiyy" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -120,11 +120,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
   
 
 <br/>  
@@ -138,7 +133,8 @@ If things goes well, this section should automatically be replaced by a list of 
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
-            </a></div>
+            </a>
+</div>
 <br />
 
 ----

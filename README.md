@@ -4,18 +4,15 @@
   
 
 ### <div align="center">I'm Ankit </div>  
-  
-
-- 🔭 I’m currently working on [Device EcoSystem Project](https://github.com/ankkiyy)  
-  
-
-- 🌱 I’m currently learning Electron JS, French and Italian Language  
-  
+    
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: Bees can Recognize Human faces  
+- ⚡ Fun fact: Bees can Recognize Human faces
+
+
+- ⚡ Fun fact: I don't enjoy parties  
   
 
 <br/>  
